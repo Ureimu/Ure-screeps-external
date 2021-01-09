@@ -1,0 +1,26 @@
+{
+  "name": "ure-screeps-external",
+  "version": "0.0.2",
+  "description": "works for Ure-screeps-AI-rollup",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ureimu/Ure-screeps-external.git"
+  },
+  "keywords": [],
+  "author": "ureium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ureimu/Ure-screeps-external/issues"
+  },
+  "homepage": "https://github.com/Ureimu/Ure-screeps-external#readme",
+  "dependencies": {
+    "prompt": "^1.1.0",
+    "screeps-api": "^1.14.0",
+    "screeps-server-mockup": "^1.5.1"
+  }
+}
