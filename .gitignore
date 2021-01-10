@@ -21,7 +21,7 @@
 
 # Screeps Config
 screeps.json
-token.dat
+screepsExternal.json
 .screeps-multimeter.history
 screeps-multimeter.json
 
